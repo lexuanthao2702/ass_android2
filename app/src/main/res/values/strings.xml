@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment_Android2</string>
+    <string name="forgotpassword"><u><b>Forgot Password</b></u></string>
+    <string name="sign_up">Don\'t have an account?<u><b>Sign Up</b></u></string>
+    <string name="Update"><u><b>Chỉnh sửa</b></u></string>
+    <string name="xoa"><u><b>Xóa</b></u></string>
+    <string name="nav_QLSP">Quản Lý Sản Phẩm</string>
+    <string name="nav_GioiThieu">Giới Thiệu</string>
+    <string name="nav_CaiDat">Cài Đặt</string>
+    <string name="nav_DangXuat">Đăng Xuất</string>
+    <string name="nav_drawer_open">Drawer Open</string>
+    <string name="nav_drawer_close">Drawer Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
